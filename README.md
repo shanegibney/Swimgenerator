@@ -1,7 +1,7 @@
 
 
 # Swim generator
-
+Stuart addition to line 4 at 12:10
 this is new at 12:04...and up higher.
 
 shane's   local change
